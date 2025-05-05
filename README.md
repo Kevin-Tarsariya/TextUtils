@@ -1,10 +1,10 @@
-# 📝 KTextutils
+# 📝 Textutils
 
-**KTextutils** is a modern and responsive text utility web application built with **React** and **Bootstrap**. It allows users to quickly perform common text operations such as case conversion, word/character counting, and clearing text — all in a clean, user-friendly interface.
+**Textutils** is a modern and responsive text utility web application built with **React** and **Bootstrap**. It allows users to quickly perform common text operations such as case conversion, word/character counting, and clearing text — all in a clean, user-friendly interface.
 
 ## 🔗 Live Demo
 
-👉 [Visit the Live App](https://kevin-tarsariya.github.io/KTextutils)
+👉 [Visit the Live App](https://kevin-tarsariya.github.io/Textutils)
 
 ## ✨ Features
 
@@ -37,8 +37,8 @@
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/Kevin-Tarsariya/KTextutils.git
-cd KTextutils
+git clone https://github.com/Kevin-Tarsariya/Textutils.git
+cd Textutils
 npm install
 npm start
 ```
