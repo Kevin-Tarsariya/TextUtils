@@ -7,7 +7,7 @@
 - 🔠 Convert text to **UPPERCASE** or **lowercase**
 - 🧹 **Clear** text with a single click
 - 🔢 **Count** words and characters in real-time
-- 🌙 Light/Dark mode support *(if applicable)*
+- 🌙 Light/Dark mode support 
 - 📱 **Responsive** design optimized for mobile and desktop
 - ⚛️ Powered by **React** and styled with **Bootstrap 5**
 
