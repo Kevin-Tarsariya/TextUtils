@@ -11,7 +11,9 @@
 - 📱 **Responsive** design optimized for mobile and desktop
 - ⚛️ Powered by **React** and styled with **Bootstrap 5**
 
-## 📂 Project Structure
+## 📂 Project View:-
+![image](https://github.com/user-attachments/assets/ab3e4b8c-b0c1-43e4-a826-b9a37017fa98)
+
 
 
 ## 🛠️ Built With
